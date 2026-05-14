@@ -2,7 +2,7 @@
 
 A complete walkthrough of loading, analysing, hand-building, and training a GPT-2 style language model using PyTorch & EasyTransformer.
 
-**Course:** Distributed & Parallel Systems | **Date:** April 2026
+
 
 ---
 
