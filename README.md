@@ -57,15 +57,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## Usage
 
-### Generate the Technical Report
-
-```bash
-python generate_gpt2_report.py
-```
-
-This produces `gpt2_report.docx` — a fully formatted Word document covering all four project phases.
 
 ## Architecture Notes
 
