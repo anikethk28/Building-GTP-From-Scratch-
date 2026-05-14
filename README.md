@@ -4,7 +4,7 @@ A complete walkthrough of loading, analysing, hand-building, and training a GPT-
 
 
 
----
+
 
 ## Overview
 
